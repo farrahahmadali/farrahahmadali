@@ -1,0 +1,11 @@
+---
+title: "Project Proposal"
+author: "Farrah Ali, Tayaba Saleem, Yichao Jin, Grant Powell, & Hoda Elsafadi"
+date: "2023-10-13"
+categories: [Project]
+image: projectpic.png
+---
+
+Please find the link for our group's project proposal here.
+
+<https://www.slideshare.net/farrahahmadali/epps-6356-project-proposalpptx>
